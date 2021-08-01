@@ -1,0 +1,340 @@
+/*firstpart*/
+.linkpart{
+	color: blue;
+	background-color: lightblue;
+	text-decoration: none;
+}
+#about{
+	position:absolute;	
+	margin-top:3200px;
+	height:700px;
+	width:75%;
+	background-image: radial-gradient(circle, #160537, #27185c, #382a84, #473eae, #5454dc);
+	margin-left: 	295px;
+	color: 	white;
+	font-size: 	28px;
+}
+.socialpic{
+	margin-top: 450px;
+	margin-left: 200px;
+}
+.socialentry{
+	width: 80%;
+	height: 200px;
+	border-radius: 10px 4px 1px 10px;
+
+}
+.socialentry:hover{
+	opacity: 0.6;
+}
+
+#withabout{
+	font-size: 	40px;
+	font-family: 	sans-serif;	
+	margin-left: 	260px;
+	margin-top: 	200px;
+}
+
+
+
+#skilld{margin-left: 289px;
+ width: 80%;
+ height: 700px;
+ position: absolute;
+margin-top: 5000px;
+background-color:#b1fc03;
+display: flex;
+
+}
+#skills{
+  margin-left:  50px;
+}
+
+#skillname{
+  margin-top:   100px;
+  display: inline-block;
+  margin-left: 10px;
+  position: relative;
+  margin-left:  400px;
+}
+#htmlskill{
+  background-color: #b1fc03;
+  width: 200px;
+  height: 100px;
+}
+#cssskill{
+  background-color: #b21dcc;
+  width: 200px;
+  height: 100px;
+}
+#javascriptskill{
+  background-color: #a0bf30;
+  width: 200px;
+  height: 100px;
+}
+#computerskill{
+  background-color: #3075bf;
+  width: 200px;
+  height: 100px;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  height: 	5000px;
+    background: linear-gradient(to right, #11998e, #38ef7d);
+}
+
+.sidenav {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+
+  padding-top: 20px;
+}
+.oname{
+	margin-top: 150px;
+	position: absolute;
+	margin-left: 380px;
+}
+.sname{
+	color: white;
+	margin-left: 145px;
+	font-size: 400px;
+	position: absolute;
+	margin-top: -160px;
+	z-index: 1;
+}
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  margin-left: 35px;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+  border-style: dotted;
+  transition: 3s;
+  
+  width: 100%;
+  background-color: lightblue;
+}
+.sidenav:hover{
+	transition: 3s;
+	border-radius: 10px;
+	opacity: 0.9;
+}
+
+.main {
+  margin-left: 300px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  background-image: linear-gradient(to left top, #37050e, #5a2e50, #5e6194, #4899c6, #54d0dc); height: 580px;
+}
+.imgsection{
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 200px;
+  
+  z-index:1.9;
+  border-radius: 10px;
+ 
+
+ 
+}
+.imgpart:hover{
+	opacity: 0.4;
+	transition: 3s;
+	border-radius: 50px;
+}
+
+.imgpart{
+	border-radius: 10px;
+	
+	margin-left: 35px;
+}
+
+/*firstpart*/
+
+/*experince*/
+#ex
+{
+	background-image: linear-gradient(to top, #160537, #3a1a5f, #652d89, #9541b3, #ca54dc);
+	margin-left: 300px;
+	 position: absolute;
+	 margin-top: 1700px;
+}
+.firstexp{
+	width: 100%;
+}
+.first{
+	margin-left: 410px;
+	 font-size: 40px;
+}
+.item{
+	margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mediap{
+	width: 75%;
+	height: 800px;
+	position: absolute;
+	margin-top: 400px;
+	 margin-left: 300px; 
+	background-image: linear-gradient(to left, #160537, #003b73, #00719e, #00a7b1, #54dcb3);
+}
+
+.connect{
+	position: absolute;
+	background-color: #2d516e;
+	width: 50%;
+	height: 200px;
+	margin-top: 240px;
+	margin-left: 40px;
+	border-radius: 3px 10px 20px 40px;
+}
+#big{
+	position: absolute;
+	font-size: 400px;
+	margin-top: -170px;
+}
+#big:hover{
+	z-index: 1;
+
+	color: #3698d1;
+	transition: 4s;
+	  transform: rotate(-20deg);
+}
+#small:hover{
+	color: #6344eb;
+	transition: 3s;
+}
+
+#small{
+	position: absolute;
+	font-size: 100px;
+	margin-left: 190px;
+}
+.connect .phone{
+
+	margin-top: 45px;
+	margin-left: 110px;
+}
+.sociallink{
+	position: absolute;
+	margin-top: 20px;
+
+	width: 40%;
+	height: 200px;
+	margin-left: 700px;
+
+}
+.facebook{
+	width: 35%;
+	height: 150px;
+	background-size: cover;
+	margin-bottom: 2px;
+	background-image: url("facebook.png");
+}
+
+.youtube{
+	width: 50%;
+	height: 100px;
+	background-size: 80%;
+	background-image: url("youtube.png");
+	margin-bottom: 2px;
+	background-repeat: no-repeat;
+}
+
+.twiter{
+	width: 52%;
+	padding-bottom: 3px;
+	height: 160px;
+	background-size: 90%;
+	background-repeat: no-repeat;
+	margin-bottom: 2px;
+	background-image: url("twitter.png");
+}
+.instagram{
+	width: 50%;
+	height: 100px;
+	background-size: 90%;
+background-repeat: no-repeat;
+	margin-bottom: 2px;
+	background-image: url("instagram.jpg");
+}
+.yahoo{
+	width: 52%;
+	height: 130px;
+	
+	background-size: 90%;
+background-repeat: no-repeat;
+	margin-bottom: 2px;
+	background-image: url("yahoo.jpg");
+}
